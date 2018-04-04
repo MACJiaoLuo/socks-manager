@@ -4,4 +4,4 @@
 
 使用gost配合redis实现socks5认证
 
-https://github.com/yknext
+https://github.com/yknext/gost
